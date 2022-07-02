@@ -3,7 +3,7 @@ cp /usr/share/zoneinfo/Asia/Riyadh /etc/localtime
 #Database Details
 HOST='50.116.18.242';
 USER='loinvpnc_vipplus';
-PASS='@@@For1en3At1';
+PASS='Loinvpn12';
 DBNAME='loinvpnc_vipplus';
 
 install_require()
